@@ -1,1 +1,1 @@
-# javascript-nifty-challenge
+# Javascript Nifty Challenge
